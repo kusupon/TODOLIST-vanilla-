@@ -1,5 +1,3 @@
-import "./style.css";
-
 const onClickAdd = () => {
   // テキストボックスの値を取得し、初期化
   const inputText = document.getElementById("add-text").value;
